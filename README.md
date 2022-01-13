@@ -1,2 +1,2 @@
-# stocksPY USE this for 5 paisa API
+# stocksPy USE this code for 5 paisa API
 #
